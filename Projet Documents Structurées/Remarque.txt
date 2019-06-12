@@ -1,0 +1,4 @@
+Les fichiers en sortie ont le même format que les fichiers envoyés aussi la même taille et le même encodage
+La sortie de propgramme se trouve dans le dossier "Sortie"
+Le dossier "Déja généré" est la sorie de notre essai
+Le dossier "Source" contient les documents sources .java .py
